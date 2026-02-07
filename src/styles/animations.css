@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&display=swap');
+
+@keyframes pulse-ring {
+  0% { transform: scale(1); opacity: 0.6; }
+  100% { transform: scale(1.3); opacity: 0; }
+}
+
+@keyframes slide-up {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes bounce-subtle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+.duo-node {
+  transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.duo-node:hover {
+  transform: scale(1.1);
+}
+
+.duo-node:active {
+  transform: scale(0.95);
+}
+
+.duo-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* ══════════ Responsive ══════════ */
+
+@media (max-width: 600px) {
+  .flashcard-container {
+    max-width: 100% !important;
+    height: 240px !important;
+  }
+
+  .flashcard-front-text {
+    font-size: 22px !important;
+  }
+
+  .flashcard-arabic-text {
+    font-size: 28px !important;
+  }
+
+  .app-header h1 {
+    font-size: 18px !important;
+  }
+
+  .filter-bar {
+    padding: 12px 12px !important;
+  }
+
+  .filter-bar select,
+  .filter-bar button {
+    font-size: 12px !important;
+    padding: 6px 10px !important;
+  }
+
+  .nav-button {
+    width: 42px !important;
+    height: 42px !important;
+  }
+
+  .node-button {
+    width: 56px !important;
+    height: 56px !important;
+  }
+
+  .node-button.active {
+    width: 64px !important;
+    height: 64px !important;
+  }
+
+  .table-view {
+    font-size: 12px !important;
+  }
+
+  .table-view td,
+  .table-view th {
+    padding: 5px 6px !important;
+  }
+
+  .table-arabic-cell {
+    font-size: 15px !important;
+  }
+
+  .session-header {
+    padding: 12px 12px !important;
+  }
+}
+
+@media (max-width: 400px) {
+  .flashcard-container {
+    height: 200px !important;
+  }
+
+  .flashcard-front-text {
+    font-size: 18px !important;
+  }
+
+  .flashcard-arabic-text {
+    font-size: 24px !important;
+  }
+
+  .type-filter-group {
+    flex-wrap: wrap;
+  }
+}

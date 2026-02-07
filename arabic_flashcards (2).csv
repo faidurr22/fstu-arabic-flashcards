@@ -1,0 +1,721 @@
+﻿Section,Part,Type,Arabic,English
+Unit 1,Part 1: Nouns (Irab),grammar,مَرْفُوْع,a state of a noun and verb
+Unit 1,Introduction: Words,grammar,اِسْم ج أَسْمَاء,noun
+Unit 1,Part 1: Nouns (Irab),grammar,مَنْصُوْب,a state of a noun and verb
+Unit 1,Introduction: Words,grammar,فِعْل ج أَفْعَال,verb
+Unit 1,Part 1: Nouns (Irab),grammar,مَجْرُوْر,a state of a noun
+Unit 1,Introduction: Words,grammar,حَرْف ج حُرُوْف,particle
+Unit 1,Part 1: Nouns (Irab),grammar,مَجْزُوْم,a state of a verb
+Unit 1,Part 1: Nouns,grammar,مَعْرِفَة ج مَعَارِف,definite noun
+Unit 1,Part 1: Nouns (Irab),grammar,مَبْنِي,non-declinable
+Unit 1,Part 1: Nouns,grammar,نَكِرَة ج نَكِرَات,indefinite noun
+Unit 1,Part 1: Nouns (Irab),grammar,مُعْرَب,declinable
+Unit 1,Part 1: Nouns,grammar,تَنْوِيْن,double harakah
+Unit 1,Part 1: Nouns,grammar,مُذَكَّر,masculine
+Unit 1,Part 2: Verbs,grammar,مَاض,past tense
+Unit 1,Part 1: Nouns,grammar,مُؤَنَّث,feminine
+Unit 1,Part 2: Verbs,grammar,مُضَارِع,present or future
+Unit 1,Part 1: Nouns,grammar,التَّاءُ الْمَرْبُوْطَة,round taa
+Unit 1,Part 2: Verbs,grammar,أَمْر,imperative
+Unit 1,Part 1: Nouns,grammar,التَّاءُ الْمَفْتُوْحَة,open taa
+Unit 1,Part 2: Verbs,grammar,مُثْبَت,affirmative
+Unit 1,Part 1: Nouns,grammar,مُفْرَد,singular
+Unit 1,Part 2: Verbs,grammar,مَنْفِي,negative
+Unit 1,Part 2: Verbs,grammar,حَرْف نَفْي,negative particle
+Unit 1,Part 1: Nouns,grammar,جَمْع,plural
+Unit 1,Part 2: Verbs,grammar,فِعْل مَعْلُوْم,active voice
+Unit 1,Part 1: Nouns,grammar,جَمْع سَالِم,regular plural
+Unit 1,Part 2: Verbs,grammar,فِعْل مَجْهُوْل,passive voice
+Unit 1,Part 1: Nouns,grammar,جَمْع مُكَسَّر,irregular plural
+Unit 1,Part 3: Particles,grammar,عَامِل,governing particle
+Unit 1,Part 3: Particles,grammar,غَیْرُ عَامِل,non-governing particle
+Unit 1,Nouns (أسماء),vocab,سُوْرَة ج سُوَر,chapter
+Unit 1,Nouns (أسماء),vocab,أَخ ج إِخْوَان ، إِخْوَة,brother
+Unit 1,Nouns (أسماء),vocab,شَاكِر ج وْن,thankful
+Unit 1,Nouns (أسماء),vocab,أُخْت ج أَخَوَات,sister
+Unit 1,Nouns (أسماء),vocab,شَرَاب ج أَشْرِبَة,drink
+Unit 1,Nouns (أسماء),vocab,أَرْض ج أَرْضُوْن (مث),earth
+Unit 1,Nouns (أسماء),vocab,شَمْس ج شُمُوْس (مث),sun
+Unit 1,Nouns (أسماء),vocab,أُم ج أُمَّهَات,mother
+Unit 1,Nouns (أسماء),vocab,شَيْء ج أَشْیَاء,thing
+Unit 1,Nouns (أسماء),vocab,إِمَام ج أَئِمَّة,"imam, leader"
+Unit 1,Nouns (أسماء),vocab,صَابِر ج وْن,patient
+Unit 1,Nouns (أسماء),vocab,اِمْرَأة ج نِسَاء ، نِسْوَة,woman
+Unit 1,Nouns (أسماء),vocab,صَادِق ج وْن,truthful
+Unit 1,Nouns (أسماء),vocab,بِنْت ج بَنَات,daughter
+Unit 1,Nouns (أسماء),vocab,صَالِح ج وْن,pious
+Unit 1,Nouns (أسماء),vocab,جَالِس ج وْن,sitting
+Unit 1,Nouns (أسماء),vocab,ضَیْف ج ضُیُوْف,guest
+Unit 1,Nouns (أسماء),vocab,جَبَل ج جِبَال,mountain
+Unit 1,Nouns (أسماء),vocab,طَالِب ج طَُّلَّب,student
+Unit 1,Nouns (أسماء),vocab,جَد ج أَجْدَاد,grandfather
+Unit 1,Nouns (أسماء),vocab,طَالِبَة ج طَالِبَات,student
+Unit 1,Nouns (أسماء),vocab,جَدَّة ج جَدَّات,grandmother
+Unit 1,Nouns (أسماء),vocab,طَعَام ج أَطْعِمَة,food
+Unit 1,Nouns (أسماء),vocab,جَنَّة ج جَنَّات,"garden, heaven"
+Unit 1,Nouns (أسماء),vocab,طِفْل ج أَطْفَال,child
+Unit 1,Nouns (أسماء),vocab,خَالَة ج خَاْلَت,aunt (mother’s sister)
+Unit 1,Nouns (أسماء),vocab,طِفْلَة ج أَطْفَال,child
+Unit 1,Nouns (أسماء),vocab,دُنْیَا (مث),world
+Unit 1,Nouns (أسماء),vocab,عَالِم ج عُلَمَاء,scholar
+Unit 1,Nouns (أسماء),vocab,رَب جَأَرْبَاب,"lord, nourisher"
+Unit 1,Nouns (أسماء),vocab,عَبْد ج عِبَاد,servant
+Unit 1,Nouns (أسماء),vocab,رِجْل ج أَرْجُل )(مُث,foot
+Unit 1,Nouns (أسماء),vocab,عَم ج أَعْمَام,uncle (father’s brother)
+Unit 1,Nouns (أسماء),vocab,رَجُل ج رِجَال,man
+Unit 1,Nouns (أسماء),vocab,عَیْن ج أَعْیُن ، عُیُوْن (مث),"eye, spring"
+Unit 1,Nouns (أسماء),vocab,رَسُوْل ج رُسُل,messenger
+Unit 1,Nouns (أسماء),vocab,فَاسِق ج وْن,transgressor
+Unit 1,Nouns (أسماء),vocab,رِيْح ج رِيَاح (مث),wind
+Unit 1,Nouns (أسماء),vocab,فَقِیْر ج فُقَرَاء,destitute
+Unit 1,Nouns (أسماء),vocab,سَمَاء ج سَمَاوَات (مث),sky
+Unit 1,Nouns (أسماء),vocab,مُعَلِّمَة ج مُعَلِّمَات,teacher
+Unit 1,Nouns (أسماء),vocab,قَلَم ج أَقَّْلَم,pen
+Unit 1,Nouns (أسماء),vocab,مَكْتَب ج مَكَاتِب,desk
+Unit 1,Nouns (أسماء),vocab,قَمَر ج أَقْمَار,moon
+Unit 1,Nouns (أسماء),vocab,مَلِك ج مُلُوْك,king
+Unit 1,Nouns (أسماء),vocab,قَوْم ج أَقْوَام,nation
+Unit 1,Nouns (أسماء),vocab,مُؤْمِن ج وْن,believer
+Unit 1,Nouns (أسماء),vocab,كِتَاب ج كُتُب,book
+Unit 1,Nouns (أسماء),vocab,نَار ج نِیْرَان (مث),fire
+Unit 1,Nouns (أسماء),vocab,كُرْسِي ج كَرَاسِي,chair
+Unit 1,Nouns (أسماء),vocab,نَاس ج أُنَاس,people
+Unit 1,Nouns (أسماء),vocab,لَیْلَة ، لَیْل ج لَیَال,night
+Unit 1,Nouns (أسماء),vocab,نَبِي جَأَنْبِیَاءُ ، نَبِیُّوْن,prophet
+Unit 1,Nouns (أسماء),vocab,مَاء ج مِیَاه,water
+Unit 1,Nouns (أسماء),vocab,نَجْم ج نُجُوْم,star
+Unit 1,Nouns (أسماء),vocab,مُجْتَهِد ج وْن,hardworking
+Unit 1,Nouns (أسماء),vocab,نَفْس ج نُفُوْس ، أَنْفُس (مث),soul
+Unit 1,Nouns (أسماء),vocab,مُخْلِص ج وْن,sincere
+Unit 1,Nouns (أسماء),vocab,وَلَد ج أَوْْلَد,"child, son"
+Unit 1,Nouns (أسماء),vocab,مَدْرَسَة ج مَدَارِس,"school, place of study"
+Unit 1,Verbs (أفعال),vocab,يَد ج أَيْد ، أَيَاد (مث),hand
+Unit 1,Verbs (أفعال),vocab,مُسْلِم ج وْن,Muslim
+Unit 1,Verbs (أفعال),vocab,بَعَثَيَبْعَثُبَعْثًا,"to send, resurrect"
+Unit 1,Verbs (أفعال),vocab,اجْتَهَدَيَجْتَهِدُاجْتِهَادًا,to work hard
+Unit 1,Verbs (أفعال),vocab,اِسْتَیْقَظُيَسْتَیْقِظاسْتِیْقَاظًا,to wake up
+Unit 1,Verbs (أفعال),vocab,جَاعَيَجُوْعُجَوْعًا,to be hungry
+Unit 1,Verbs (أفعال),vocab,أَسْرَعَيُسْرِعُإِسْرَاعًا,to hasten
+Unit 1,Verbs (أفعال),vocab,جَعَلَيَجْعَلُجَعَّْل,to make
+Unit 1,Verbs (أفعال),vocab,أَعْطَیيُعْطِيْإِعْطَاء,to give
+Unit 1,Verbs (أفعال),vocab,جَلَسَيَجْلِسُجُلُوْسًا,to sit
+Unit 1,Verbs (أفعال),vocab,أَكَلَيَأْكُلُأَكَّْل,to eat
+Unit 1,Verbs (أفعال),vocab,جَهِلَيَجْهَلُجَهَّْل,"to be unaware of, ignorant, not know"
+Unit 1,Verbs (أفعال),vocab,آمَنَيُؤْمِنُإِيْمَانًا,to believe
+Unit 1,Verbs (أفعال),vocab,حَزِنَيَحْزَنُحُزْنًا,"to be sad, grieve"
+Unit 1,Verbs (أفعال),vocab,حَضَرُيَحْضُرحُضُوْرًا,to attend
+Unit 1,Verbs (أفعال),vocab,أَنْزَلًيُنْزِلُإِنْزَاْل,to send down
+Unit 1,Nouns (أسماء),vocab,عَرَفَيَعْرِفُمَعْرِفَة,to recognise
+Unit 1,Nouns (أسماء),vocab,خَلَقَيَخْلُقُخَلْقًا,to create
+Unit 1,Nouns (أسماء),vocab,عَطِشَيَعْطَشُعَطَشًا,to be thirsty
+Unit 1,Nouns (أسماء),vocab,ذَهَبَيَذْهَبُذَهَابًا,to go
+Unit 1,Nouns (أسماء),vocab,عَلَّمَيُعَلِّمُتَعْلِیْمًا,to teach
+Unit 1,Nouns (أسماء),vocab,رَأَیيَرًیرُؤْيَة,to see
+Unit 1,Nouns (أسماء),vocab,غَابُيَغِیْبغَیْبًا ، ًغَیْبُوبَة,"to be absent, hidden, unseen, vanish,"
+Unit 1,Nouns (أسماء),vocab,غَضِبيَغْضَبُغَضَبًا,to be angry
+Unit 1,Nouns (أسماء),vocab,سَافَرَيُسَافِرُمُسَافَرَة,to travel
+Unit 1,Nouns (أسماء),vocab,غَفَرَيَغْفِرُمَغْفِرَة,to forgive
+Unit 1,Nouns (أسماء),vocab,سَأَلَيَسْأَلُسُؤَاْل,to ask
+Unit 1,Nouns (أسماء),vocab,قَامَيَقُوْمُقِیَامًا,to stand
+Unit 1,Nouns (أسماء),vocab,سَقَطَيَسْقُطُسُقُوْطًا,to fall
+Unit 1,Nouns (أسماء),vocab,قَرَأَيَقْرُأًقِرَاءَة,to read
+Unit 1,Nouns (أسماء),vocab,سَمِعَيَسْمَعُسَمْعًا,"to hear, listen"
+Unit 1,Nouns (أسماء),vocab,كَثُرَيَكْثُرُكَثْرَة,to be abundant
+Unit 1,Nouns (أسماء),vocab,، شَبِعَيَشْبَعُشِـبْعًاشَبْعًا,to be sated
+Unit 1,Nouns (أسماء),vocab,كَذَبَيَكْذِبُكِذْبًاكَذِبًا,"to lie, be dishonest"
+Unit 1,Nouns (أسماء),vocab,شَرِبَيَشْرَبُشُرْبًا,to drink
+Unit 1,Nouns (أسماء),vocab,ungrateful كَفَرَيَكْفُرُكُفْرًا,"to disbelieve, be"
+Unit 1,Nouns (أسماء),vocab,صَامَيَصُوْمَصوْمًا ، صِیَامًا,to fast
+Unit 1,Nouns (أسماء),vocab,مَرِضَيَمْرَضُمَرَضًا,to be sick
+Unit 1,Nouns (أسماء),vocab,نَامَيَنَامُنَوْمًا,to sleep
+Unit 1,Nouns (أسماء),vocab,صَدَقَيَصْدُقُصِدْقًا,to tell the truth
+Unit 1,Nouns (أسماء),vocab,نَصَرَيَنْصُرُنَصْرًا,to help
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,فَاعِل,subject
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,مُبْتَدَأ,subject
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,نَائِبُ الْفَاعِل,substitute subject
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,خَبَر,information
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,مَفْعُوْل بِه,object
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,تَرْكِیْب,grammatical analysis of a sentence
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,مَفْعُوْل بِهِثَان,indirect object
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,فِعْل نَاقِص,auxiliary verb
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,مْفُعْو لِفِیْه,adverb of time/place
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,كَان,was
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,مَفْعُوْل مُطْلَق,adverb of degree
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,يَكُوْن,will be
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,مَفْعُوْل لَه,adverb of reason
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,لَیْس,is not
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,حَال,state
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,مَاَكَان,was not
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,تَمْیِیْز,clarification
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,لَيَكُوْن,will not be
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,with َكَان or َّإِنَاِسْمُكَان / َّإِن,the subject of a sentence
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,حَرْفُتَحْقِیْق,a particle of emphasis
+Unit 2,Nominal Sentence (الجملة الاسمية),grammar,sentence with َكَان or َّإِنَخَبَرُكَان / َّإِن,the information of a
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,نُوْنُالتَّأْكِیْد,a particle of emphasis
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,مَاالنَّافِیَة,not
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,حَرْف حَصْر,a particle of restriction
+Unit 2,Verbal Sentence (الجملة الفعلية),grammar,إِنْالنَّافِیَة,a negative particle
+Unit 2,Nouns (أسماء),vocab,جُزْء ج أَجْزَاء,part
+Unit 2,Nouns (أسماء),vocab,أَجْر ج أُجُوْر,"reward, wage"
+Unit 2,Nouns (أسماء),vocab,حَاج ج حُجَّاج,Haji (one who has performed Hajj)
+Unit 2,Nouns (أسماء),vocab,أَحْسَن,better
+Unit 2,Nouns (أسماء),vocab,حَجَر ج أَحْجَار ، حِجَارَة,stone
+Unit 2,Nouns (أسماء),vocab,آخِرَة,hereafter
+Unit 2,Nouns (أسماء),vocab,حُجْرَة ج ات,room
+Unit 2,Nouns (أسماء),vocab,أُسْبُوْع ج ُأَسَابِیْع,week
+Unit 2,Nouns (أسماء),vocab,حَسَنَة ج ات,good deed
+Unit 2,Nouns (أسماء),vocab,أَشَد,"severe, severest"
+Unit 2,Nouns (أسماء),vocab,حَق,truth
+Unit 2,Nouns (أسماء),vocab,أَقَل,"less, least"
+Unit 2,Nouns (أسماء),vocab,حَقِیْبَة ج حَقَائِب,bag
+Unit 2,Nouns (أسماء),vocab,أَكْثَر,"more, most"
+Unit 2,Nouns (أسماء),vocab,حِكْمَة ج حِكَم,wisdom
+Unit 2,Nouns (أسماء),vocab,( ِأَمْس مَبْنِي),yesterday
+Unit 2,Nouns (أسماء),vocab,حِیْن ج أَحْیَان,time
+Unit 2,Nouns (أسماء),vocab,آن,time
+Unit 2,Nouns (أسماء),vocab,خَیْر ج خِیَار,"better, best, goodness"
+Unit 2,Nouns (أسماء),vocab,اْلْن,"now, just now"
+Unit 2,Nouns (أسماء),vocab,دَائِم,always
+Unit 2,Nouns (أسماء),vocab,إِنَاء ج آنِیَة,container
+Unit 2,Nouns (أسماء),vocab,دَرْس ج دُرُوْس,lesson
+Unit 2,Nouns (أسماء),vocab,بَاب ج أَبْوَاب,door
+Unit 2,Nouns (أسماء),vocab,دَقِیْقَة ج دَقَائِق,minute
+Unit 2,Nouns (أسماء),vocab,الْبَارِحَة,last night
+Unit 2,Nouns (أسماء),vocab,دِيْن ج أَدْيَان,"religion, retribution"
+Unit 2,Nouns (أسماء),vocab,بَشَر,human being
+Unit 2,Nouns (أسماء),vocab,ذَنْب ج ذُنُوْب,sins
+Unit 2,Nouns (أسماء),vocab,بَشِیْر,bearer of glad tidings
+Unit 2,Nouns (أسماء),vocab,رَطْل ج أَرْطَال,pound (weight)
+Unit 2,Nouns (أسماء),vocab,بَصِیْرَة ج بَصَائِر,"enlightenment, insight"
+Unit 2,Nouns (أسماء),vocab,سَاعَة ج ات,"time, while, hour, Day of Judgement"
+Unit 2,Nouns (أسماء),vocab,( ُبَعْد مَبْنِي ),"yet, until now"
+Unit 2,Nouns (أسماء),vocab,سُمْعَة,show
+Unit 2,Nouns (أسماء),vocab,بَیِّنَة ج بَیِّنَات,"clear, clear proof"
+Unit 2,Nouns (أسماء),vocab,سَیِّئَة ج ات,evil deed
+Unit 2,Nouns (أسماء),vocab,تَاجِر ج تُجَّار,businessman
+Unit 2,Nouns (أسماء),vocab,شَر ج شِرَار,"worse, worst, evil"
+Unit 2,Nouns (أسماء),vocab,تُفَّاحَة ج تُفَّاحَات,apple
+Unit 2,Nouns (أسماء),vocab,مُبَارَك,blessed
+Unit 2,Nouns (أسماء),vocab,شَهْر ج شُهُوْر ، أَشْهُر,month
+Unit 2,Nouns (أسماء),vocab,مُتَّق ج وْن,God-fearing
+Unit 2,Nouns (أسماء),vocab,شَيْء ج أَشْیَاء,thing
+Unit 2,Nouns (أسماء),vocab,مَسَاء,evening
+Unit 2,Nouns (أسماء),vocab,شَیْطَان ج شَیَاطِیْن,devil
+Unit 2,Nouns (أسماء),vocab,مَسْرُوْر ج وْن,happy
+Unit 2,Nouns (أسماء),vocab,صَبَاح,morning
+Unit 2,Nouns (أسماء),vocab,مَلَك ج مََّلَئِكَة,angel
+Unit 2,Nouns (أسماء),vocab,صِرَاط ج صُرُط,path
+Unit 2,Nouns (أسماء),vocab,مُهَاجِر ج َوْن,migrant
+Unit 2,Nouns (أسماء),vocab,عَالَم ج وْن,world
+Unit 2,Nouns (أسماء),vocab,مَوْعِظَة ج مَوَاعِظ,admonition
+Unit 2,Nouns (أسماء),vocab,عَسَل,honey
+Unit 2,Nouns (أسماء),vocab,مِیْزَان ج مَوَازِيْن,scale
+Unit 2,Nouns (أسماء),vocab,عِلْم ج عُلُوْم,knowledge
+Unit 2,Nouns (أسماء),vocab,نَاصِر ج أَنْصَار,helper
+Unit 2,Nouns (أسماء),vocab,غَد,tomorrow
+Unit 2,Nouns (أسماء),vocab,نَافِذَة ج نَوَافِذ,window
+Unit 2,Nouns (أسماء),vocab,غُرْفَة ج غُرَف ، ات,room
+Unit 2,Nouns (أسماء),vocab,نَهَار,day/daytime
+Unit 2,Nouns (أسماء),vocab,غَنِي ج أَغْنِیَاء,rich
+Unit 2,Nouns (أسماء),vocab,وَاحِد,one
+Unit 2,Nouns (أسماء),vocab,( ُّقَط مَبْنِي),ever
+Unit 2,Nouns (أسماء),vocab,يَوْم ج أَيَّام,day
+Unit 2,Nouns (أسماء),vocab,لَبَن ج أَلْبَان,milk
+Unit 2,Nouns (أسماء),vocab,لِتْر ج لِتْرَات,litre
+Unit 2,Verbs (أفعال),vocab,تَّلَيَتْلُوْتَِّلَوَة,to recite
+Unit 2,Verbs (أفعال),vocab,أَتَیيَأْتِيْإِتْیَانًا,to come
+Unit 2,Verbs (أفعال),vocab,صْب ر) ُجَزِعَيَجْزَعجَزَعًا,to be impatient (opposite of
+Unit 2,Verbs (أفعال),vocab,آتَیيُؤْتِيْإِيْتَاء,to give
+Unit 2,Verbs (أفعال),vocab,أَحَبَّيُحِبُّإِحْبَابًا ، حُبًّا,to love
+Unit 2,Verbs (أفعال),vocab,احْتَرَمَيَحْتَرِمُاحْتِرَامًا,"to respect, honour"
+Unit 2,Verbs (أفعال),vocab,اِحْتَسَبَيَحْتَسِبُاِحْتِسَابًا,to hope for reward
+Unit 2,Verbs (أفعال),vocab,خَافَيَخَافُخَوْفًا,to fear
+Unit 2,Verbs (أفعال),vocab,خَرَجَيَخْرُجُخُرُوْجًا,"to come out, leave"
+Unit 2,Verbs (أفعال),vocab,أَرْسَلَيُرْسِلُإِرْسَاْل,to send
+Unit 2,Verbs (أفعال),vocab,أَرَیيُرِيًإِرَاءَة,to show
+Unit 2,Verbs (أفعال),vocab,خَطَبَيَخْطُبُخُطْبَة,to give a lecture
+Unit 2,Verbs (أفعال),vocab,دَخَلَيَدْخُلُدُخُوْْل,to enter
+Unit 2,Verbs (أفعال),vocab,اِسْتَغْفَريَسْتَغْفِرُاِسْتِغْفَارًا,to seek forgiveness
+Unit 2,Verbs (أفعال),vocab,دَعَايَدْعُوْدَعْوَةًدُعَاء,"to call, supplicate"
+Unit 2,Verbs (أفعال),vocab,اِشْتَرَیيَشْتَرِياِشْتِرَاء,to buy
+Unit 2,Verbs (أفعال),vocab,رَاءىَيُرِائَيرِيًاء َرِئَاءًمُرَاءًاة,to show off
+Unit 2,Verbs (أفعال),vocab,أَضَلَّيُضِلُّإِضَّْلَْل,to misguide
+Unit 2,Verbs (أفعال),vocab,رَتَّلَيُرَتِّلُتَرْتِیَّْل,to recite clearly
+Unit 2,Verbs (أفعال),vocab,أَطَاعَيُطِیْعًإِطَاعَةً ، طَاعَة,to obey
+Unit 2,Verbs (أفعال),vocab,رَجَاًيَرْجُوْرَجَاء,to hope
+Unit 2,Verbs (أفعال),vocab,أَطْعَمَيُطْعِمُإِطْعَامًا,to feed
+Unit 2,Verbs (أفعال),vocab,رَجَعَيَرْجِعُرُجُوْعًا,to return
+Unit 2,Verbs (أفعال),vocab,رَضِيَيَرْضٰیرِضْوَانًا,"to be happy with, approve of"
+Unit 2,Verbs (أفعال),vocab,رَغِبيَرْغَبُرَغْبَةً ، رَغَبًا,"to hope, desire"
+Unit 2,Verbs (أفعال),vocab,أَنْفَقَيُنْفِقُإِنْفَاقًا,to spend
+Unit 2,Verbs (أفعال),vocab,اِهْتَدَیيَهْتَدِيْاِهْتِدَاء,"to be guided, find the right way"
+Unit 2,Verbs (أفعال),vocab,، ًرَهِبَيَرْهَبُرَهْبَةرَهَبًا,to fear
+Unit 2,Verbs (أفعال),vocab,زَادَيَزِيْدُزِيَادَة,to increase
+Unit 2,Verbs (أفعال),vocab,بَكَیيَبْكِيْبُكَاء,to cry
+Unit 2,Nouns (أسماء),vocab,قَالَيَقُوْلُقَوْْل,to say
+Unit 2,Nouns (أسماء),vocab,سَقَیيَسْقِيْسَقْیًا,to give to drink
+Unit 2,Nouns (أسماء),vocab,قَتَلَيَقْتُلُقَتَّْل,to kill murder
+Unit 2,Nouns (أسماء),vocab,سَكَتَيَسْكُتُسُكُوْتًا,to be quiet
+Unit 2,Nouns (أسماء),vocab,شَفَیيَشْفِيْشِفَاء,to cure
+Unit 2,Nouns (أسماء),vocab,كَتَبَيَكْتُبُكِتَابَة,"to write, prescribe"
+Unit 2,Nouns (أسماء),vocab,صَلَّیًيُصَلِّيْصََّلَة,to perform salah
+Unit 2,Nouns (أسماء),vocab,كَذَّبَيُكَذِّبُتَكْذِيْبًا,to reject
+Unit 2,Nouns (أسماء),vocab,do صَنَعَيَصْنَعُصَنْعًا,"to make, manufacture,"
+Unit 2,Nouns (أسماء),vocab,كَسَايَكْسُوْكَسْوًا,to clothe
+Unit 2,Nouns (أسماء),vocab,ضَحِكَيَضْحَكضِحْكًا,to laugh
+Unit 2,Nouns (أسماء),vocab,كَسَبَيَكْسِبكَسْبًا,to earn
+Unit 2,Nouns (أسماء),vocab,ضَرَبَيَضْرِبُضَرْبًا,to hit
+Unit 2,Nouns (أسماء),vocab,مَشَیيَمْشِيْمَشْیًا,to walk
+Unit 2,Nouns (أسماء),vocab,ضَلَّيَضِلُّضََّلَْل,to be mislead
+Unit 2,Nouns (أسماء),vocab,مَلََيَمْلَُمَل,to fill
+Unit 2,Nouns (أسماء),vocab,نَسِيَيَنْسَینِسْیَانًا,to forget
+Unit 2,Nouns (أسماء),vocab,عَدَلَيَعْدِلُعَدْْل,to be just
+Unit 2,Nouns (أسماء),vocab,هَدَیيَهْدِيْهِدَايَةً ، هُدًی,to guide
+Unit 2,Nouns (أسماء),vocab,عَصَیيَعْصِيْمَعْصِیَة,to disobey
+Unit 2,Nouns (أسماء),vocab,وَضَعَيَضَعُوَضْعًا,to put
+Unit 2,Nouns (أسماء),vocab,عَلِمَيَعْلَمُعِلْمًا,to know
+Unit 2,Nouns (أسماء),vocab,عَمِلَيَعْمَلُعَمََّل,"to do, work"
+Unit 2,Nouns (أسماء),vocab,وَهَبَيَهَبُهِبَة,"to give, grant"
+Unit 3 Section 1,Phrases,grammar,مِثْل,"like, similar"
+Unit 3 Section 1,Part 1: Descriptive Phrases,grammar,نَعْت,the adjective
+Unit 3 Section 1,Phrases,grammar,أَمْثَال,"like, similar"
+Unit 3 Section 1,Part 1: Descriptive Phrases,grammar,جَمْعُغَیْرِالْعُقَّلَء,plural of non-humans
+Unit 3 Section 1,Phrases,grammar,غَیْر,"un-, other than"
+Unit 3 Section 1,Part 2: Demonstrative Phrases,grammar,اِسْمِاإلِْشَارَة,demonstrative pronoun
+Unit 3 Section 1,Phrases,grammar,یسِو,"un-, other than"
+Unit 3 Section 1,Part 2: Demonstrative Phrases,grammar,مُشَار إِلَیْه,what is being pointed at
+Unit 3 Section 1,Part 5: Possessive Phrases,grammar,ذُو,possessor of
+Unit 3 Section 1,Part 3: Conjunction Phrases,grammar,حَرْفُ عَطْف,conjunction
+Unit 3 Section 1,Part 6: Number Phrases,grammar,عَدَد,number
+Unit 3 Section 1,Phrases,grammar,مَعْدُوْد,the item being quantified
+Unit 3 Section 1,Phrases,grammar,بِضْع,"few, -odd"
+Unit 3 Section 1,Phrases,grammar,نَیِّف,"few, -odd"
+Unit 3 Section 1,Phrases,grammar,يَاء which is preceded اسْم مَنْقُوْص,a word which ends in a
+Unit 3 Section 1,Part 3: Conjunction Phrases,grammar,مُبْدَل مِنْه,the second word of an appositive
+Unit 3 Section 1,Part 4: Appositive Phrases,grammar,بَدَل,the first word of an appositive phrase
+Unit 3 Section 1,Part 5: Possessive Phrases,grammar,مُضَاف,the possessed
+Unit 3 Section 1,Part 5: Possessive Phrases,grammar,مُضَافِإِلَیْه,the possessor
+Unit 3 Section 1,Nouns (أسماء),vocab,يَوْمُالجُمُعَة,Friday
+Unit 3 Section 1,Nouns (أسماء),vocab,يَوْمُاإلِْثْنَیْن,Monday
+Unit 3 Section 1,Nouns (أسماء),vocab,يَوْمُالسَّبْت,Saturday
+Unit 3 Section 1,Nouns (أسماء),vocab,يَوْمُالثَُّّلَثَاء,Tuesday
+Unit 3 Section 1,Nouns (أسماء),vocab,يَوْمُاْلَرْبِعَاء,Wednesday
+Unit 3 Section 1,Nouns (أسماء),vocab,شْعَبُان,Shaban
+Unit 3 Section 1,Nouns (أسماء),vocab,صَف ر,Safar
+Unit 3 Section 1,Nouns (أسماء),vocab,رَمَضُان,Ramadhan
+Unit 3 Section 1,Nouns (أسماء),vocab,رِبْی عَاْلّوُل,Rabi al-Awal
+Unit 3 Section 1,Nouns (أسماء),vocab,شَّو ال,Shawwal
+Unit 3 Section 1,Nouns (أسماء),vocab,رِبْی عَّالثِانْي,Rabi at-Thani
+Unit 3 Section 1,Nouns (أسماء),vocab,ذْوالِقْعَدِة,Zul Qadah
+Unit 3 Section 1,Nouns (أسماء),vocab,جَمَادُْىاْلْوَلى,Jumada al-Awal
+Unit 3 Section 1,Nouns (أسماء),vocab,ذْوالِح ج ِة,Zul Hijjah
+Unit 3 Section 1,Nouns (أسماء),vocab,جَمَادْىاْلِخَرِة,Jumada at-Thani
+Unit 3 Section 1,Nouns (أسماء),vocab,لْ,not
+Unit 3 Section 1,Nouns (أسماء),vocab,ف,then
+Unit 3 Section 1,Nouns (أسماء),vocab,وَْل,neither nor
+Unit 3 Section 1,Nouns (أسماء),vocab,ثُم,then
+Unit 3 Section 1,Nouns (أسماء),vocab,بَل,"rather, but"
+Unit 3 Section 1,Nouns (أسماء),vocab,أَو,either or
+Unit 3 Section 1,Nouns (أسماء),vocab,لٰكِن,"rather, but"
+Unit 3 Section 1,Nouns (أسماء),vocab,إِمَّا ... وَإِمَّا,either or
+Unit 3 Section 1,Nouns (أسماء),vocab,ثَمَانِيَعَشْرَةَ/ ثَمَانِیَةَعَشَر,eighteen
+Unit 3 Section 1,Nouns (أسماء),vocab,اِثْنَانِ / اِثْنَتَان,two
+Unit 3 Section 1,Nouns (أسماء),vocab,تِسْعَعَشْرَةَ/ تِسْعَةَعَشَر,nineteen
+Unit 3 Section 1,Nouns (أسماء),vocab,ثَّلَث / ثَّلَثَة,three
+Unit 3 Section 1,Nouns (أسماء),vocab,عِشْرُوْن,twenty
+Unit 3 Section 1,Nouns (أسماء),vocab,أَرْبَع / أَرْبَعَة,four
+Unit 3 Section 1,Nouns (أسماء),vocab,ثَّلَثُوْن,thirty
+Unit 3 Section 1,Nouns (أسماء),vocab,خَمْس / خَمْسَة,five
+Unit 3 Section 1,Nouns (أسماء),vocab,أَرْبَعُوْن,forty
+Unit 3 Section 1,Nouns (أسماء),vocab,سِت / سِتَّة,six
+Unit 3 Section 1,Nouns (أسماء),vocab,خَمْسُوْن,fifty
+Unit 3 Section 1,Nouns (أسماء),vocab,سَبْع / سَبْعَة,seven
+Unit 3 Section 1,Nouns (أسماء),vocab,سِتُّوْن,sixty
+Unit 3 Section 1,Nouns (أسماء),vocab,ثَمَان / ثَمَانِیَة,eight
+Unit 3 Section 1,Nouns (أسماء),vocab,سَبْعُوْن,seventy
+Unit 3 Section 1,Nouns (أسماء),vocab,تِسْع / تِسْعَة,nine
+Unit 3 Section 1,Nouns (أسماء),vocab,ثَمَانُوْن,eighty
+Unit 3 Section 1,Nouns (أسماء),vocab,عْشَر /عَش رَة,ten
+Unit 3 Section 1,Nouns (أسماء),vocab,تِسْعُوْن,ninety
+Unit 3 Section 1,Nouns (أسماء),vocab,أَحَدَعَشَرَ / إِحْدَیَعَشْرَة,eleven
+Unit 3 Section 1,Nouns (أسماء),vocab,مِائَة ج مِئَات,hundred
+Unit 3 Section 1,Nouns (أسماء),vocab,اِثْنَاعَشَرَ / اِثْنَتَاَعَشْرَة,twelve
+Unit 3 Section 1,Nouns (أسماء),vocab,أَلْف ج آْلَف ، أُلُوْف,thousand
+Unit 3 Section 1,Nouns (أسماء),vocab,ثَّلَثَعَشْرَةَ/ ثَّلَثَةَعَشَر,thirteen
+Unit 3 Section 1,Nouns (أسماء),vocab,نَحْو,approximately
+Unit 3 Section 1,Nouns (أسماء),vocab,أَرْبَعَعَشْرَةَ/ أَرْبَعَةَعَشَر,fourteen
+Unit 3 Section 1,Nouns (أسماء),vocab,خَمْسَعَشْرَةَ/ خَمْسَةَعَشَر,fifteen
+Unit 3 Section 1,Nouns (أسماء),vocab,سِتَعَشْرَةَ/ سِتَّةَعَشَر,sixteen
+Unit 3 Section 1,Nouns (أسماء),vocab,جَزَاء,"recompense, reward"
+Unit 3 Section 1,Nouns (أسماء),vocab,ابْن ج أَبْنَاء ، وْن,son
+Unit 3 Section 1,Nouns (أسماء),vocab,جَمِیْل,beautiful
+Unit 3 Section 1,Nouns (أسماء),vocab,أَبْیَضُ (بَیْضَاءُ) ج بِیْض,white
+Unit 3 Section 1,Nouns (أسماء),vocab,جَنَاح ج أَجْنِحَة,wing
+Unit 3 Section 1,Nouns (أسماء),vocab,أَحْمَر (حَمْرَاءُ) ج حُمْر,red
+Unit 3 Section 1,Nouns (أسماء),vocab,جُنَیْه ج ات,pound (£)
+Unit 3 Section 1,Nouns (أسماء),vocab,آخِرُ ج وْنَ ، أَوَاخِر,"last, ending"
+Unit 3 Section 1,Nouns (أسماء),vocab,جَوَاب ج أَجْوِبَة,answer
+Unit 3 Section 1,Nouns (أسماء),vocab,أَخْضَر (خَضْرَاءُ) ج خُضْر,green
+Unit 3 Section 1,Nouns (أسماء),vocab,حَاجَة ج ات,need
+Unit 3 Section 1,Nouns (أسماء),vocab,أَخِیْر,last
+Unit 3 Section 1,Nouns (أسماء),vocab,حار,hot
+Unit 3 Section 1,Nouns (أسماء),vocab,أَذَان,call to prayer
+Unit 3 Section 1,Nouns (أسماء),vocab,حَدِيْقَة ج حَدَائِق,garden
+Unit 3 Section 1,Nouns (أسماء),vocab,حَسَن,"beautiful, good, nice, pleasant"
+Unit 3 Section 1,Nouns (أسماء),vocab,أُسْتَاذ ج أَسَاتِذَة,"teacher, professor"
+Unit 3 Section 1,Nouns (أسماء),vocab,حَكِیْم,All-Wise
+Unit 3 Section 1,Nouns (أسماء),vocab,أَسَد ج أُسْد ، أُسُد,lion
+Unit 3 Section 1,Nouns (أسماء),vocab,حَلِیْم,Forbearing
+Unit 3 Section 1,Nouns (أسماء),vocab,أَسْوَدُ ج سُوْد,black
+Unit 3 Section 1,Nouns (أسماء),vocab,حَم ج َأَحْم اء,brother-in-law
+Unit 3 Section 1,Nouns (أسماء),vocab,أَصْفَرُ (صَفْرَاءُ) ج صُفْر,yellow
+Unit 3 Section 1,Nouns (أسماء),vocab,حِمَار ج حَمِیْر ، حُمُر,donkey
+Unit 3 Section 1,Nouns (أسماء),vocab,أَمِیْر ج أُمَرَاء,leader
+Unit 3 Section 1,Nouns (أسماء),vocab,حَي ج أَحْیَاء,living
+Unit 3 Section 1,Nouns (أسماء),vocab,أَمِیْن,trustworthy
+Unit 3 Section 1,Nouns (أسماء),vocab,خَالِص,pure
+Unit 3 Section 1,Nouns (أسماء),vocab,أَهْل ج وْن,"family, people (of)"
+Unit 3 Section 1,Nouns (أسماء),vocab,خُبْز ج أَخْبَاز,bread
+Unit 3 Section 1,Nouns (أسماء),vocab,أَوَّل ج وْنَ ، أَوَائِل,"first, beginning"
+Unit 3 Section 1,Nouns (أسماء),vocab,خَبِیْر,All-Aware
+Unit 3 Section 1,Nouns (أسماء),vocab,بَحْر ج بِحَار ، أَبْحُر,ocean
+Unit 3 Section 1,Nouns (أسماء),vocab,خَفِیْف ج خِفَاف,light
+Unit 3 Section 1,Nouns (أسماء),vocab,بَخِیْل ج بُخََّلَء,stingy
+Unit 3 Section 1,Nouns (أسماء),vocab,خَمْر,alcohol
+Unit 3 Section 1,Nouns (أسماء),vocab,بَقَرَة ج بَقَرَات,cow
+Unit 3 Section 1,Nouns (أسماء),vocab,( دَار ج دِيَار ، دُوْرمث ),"house, (land)"
+Unit 3 Section 1,Nouns (أسماء),vocab,بَلَد جَبَِّلَد,city
+Unit 3 Section 1,Nouns (أسماء),vocab,دَاع ج دُعَاة ، وْن,caller
+Unit 3 Section 1,Nouns (أسماء),vocab,ثَقِیْل ج ثِقَال,heavy
+Unit 3 Section 1,Nouns (أسماء),vocab,عَام ج أَعْوَام,year
+Unit 3 Section 1,Nouns (أسماء),vocab,دُكَّان ج دَكَاكِیْن,shop
+Unit 3 Section 1,Nouns (أسماء),vocab,عَذْب,palatable
+Unit 3 Section 1,Nouns (أسماء),vocab,دِيْنَار ج دَنَانِیْر,dinar
+Unit 3 Section 1,Nouns (أسماء),vocab,عَرْش ج عُرُوْش,throne
+Unit 3 Section 1,Nouns (أسماء),vocab,ذُبَاب ج ذِبَّان,fly
+Unit 3 Section 1,Nouns (أسماء),vocab,عَظِیْم,great
+Unit 3 Section 1,Nouns (أسماء),vocab,رَءُوْف,Most Kind
+Unit 3 Section 1,Nouns (أسماء),vocab,عَمَل ج أَعْمَال,"deed, action"
+Unit 3 Section 1,Nouns (أسماء),vocab,رُمَّانَة ج ات,pomegranate
+Unit 3 Section 1,Nouns (أسماء),vocab,غُرْفَة ج غُرَف,room
+Unit 3 Section 1,Nouns (أسماء),vocab,زَوْج ج أَزْوَاج,spouse
+Unit 3 Section 1,Nouns (أسماء),vocab,فَرَس ج أَفْرَاس,horse
+Unit 3 Section 1,Nouns (أسماء),vocab,سَفِیْنَة ج سُفُن,ship
+Unit 3 Section 1,Nouns (أسماء),vocab,فَضْل,"grace, virtue"
+Unit 3 Section 1,Nouns (أسماء),vocab,سِكِّیْن ج سَكَاكِیْن,knife
+Unit 3 Section 1,Nouns (أسماء),vocab,فَّلَّح ج وْن,farmer
+Unit 3 Section 1,Nouns (أسماء),vocab,سَیْف ج سُیُوْف,sword
+Unit 3 Section 1,Nouns (أسماء),vocab,فَم ج أَفْوَاه,mouth
+Unit 3 Section 1,Nouns (أسماء),vocab,شَاب ج شُبَّان ، شَبَاب,young man
+Unit 3 Section 1,Nouns (أسماء),vocab,فِیْل ج فِیَلَة ، أَفْیَال,elephant
+Unit 3 Section 1,Nouns (أسماء),vocab,شَاة ج شِیَاه ، شَاء,sheep
+Unit 3 Section 1,Nouns (أسماء),vocab,قَاض ج قُضَاة ، وْن,judge
+Unit 3 Section 1,Nouns (أسماء),vocab,شَاكِر,Appreciative
+Unit 3 Section 1,Nouns (أسماء),vocab,قَبِیْح,"ugly, unsightly"
+Unit 3 Section 1,Nouns (أسماء),vocab,شَجَرَة ج أَشْجَار,tree
+Unit 3 Section 1,Nouns (أسماء),vocab,قَدْر,power
+Unit 3 Section 1,Nouns (أسماء),vocab,شَرَف,"nobility, high rank"
+Unit 3 Section 1,Nouns (أسماء),vocab,قَرْيَة ج قُرًی,village
+Unit 3 Section 1,Nouns (أسماء),vocab,شَهِیْد ج شُهَدَاء,"witness, martyr"
+Unit 3 Section 1,Nouns (أسماء),vocab,قَطْرَة ج ات,drop
+Unit 3 Section 1,Nouns (أسماء),vocab,شَیْخ ج شُیُوْخ,"shaykh, old man"
+Unit 3 Section 1,Nouns (أسماء),vocab,قَلِیْل,"few, a little"
+Unit 3 Section 1,Nouns (أسماء),vocab,صَحَابِي ج صَحَابَة,companion
+Unit 3 Section 1,Nouns (أسماء),vocab,قُوَّة ج ات,strength
+Unit 3 Section 1,Nouns (أسماء),vocab,صَفْحَة ج ات,page
+Unit 3 Section 1,Nouns (أسماء),vocab,قَوِي,All-Powerful
+Unit 3 Section 1,Nouns (أسماء),vocab,صََّلَة ج صَلَوَات,prayer
+Unit 3 Section 1,Nouns (أسماء),vocab,قِیَامَة,resurrection
+Unit 3 Section 1,Nouns (أسماء),vocab,)طَیِّب (ة) ج وْنَ (ات,pure
+Unit 3 Section 1,Nouns (أسماء),vocab,كَبْش,ram
+Unit 3 Section 1,Nouns (أسماء),vocab,طَیْر ج طُیُوْر,bird
+Unit 3 Section 1,Nouns (أسماء),vocab,كَثِیْر,"many, a lot, an abundance"
+Unit 3 Section 1,Nouns (أسماء),vocab,عَافِیَة,well-being
+Unit 3 Section 1,Nouns (أسماء),vocab,نَجِس,impure
+Unit 3 Section 1,Nouns (أسماء),vocab,كَلْب ج كَِّلَب,dog
+Unit 3 Section 1,Nouns (أسماء),vocab,نَهْر ج أَنْهَار,river
+Unit 3 Section 1,Nouns (أسماء),vocab,الْكَوْثَر,name of a river in paradise
+Unit 3 Section 1,Nouns (أسماء),vocab,هَاد ج هُدَاة ، وْن,guide
+Unit 3 Section 1,Nouns (أسماء),vocab,لَطِیْف,All-Subtle
+Unit 3 Section 1,Nouns (أسماء),vocab,وَاجِب,compulsory
+Unit 3 Section 1,Nouns (أسماء),vocab,مُحْسِن ج وْن,those who do good
+Unit 3 Section 1,Nouns (أسماء),vocab,وَاد ج وُدْيَان ، أَوْدِيَة,valley
+Unit 3 Section 1,Nouns (أسماء),vocab,مَدِيْنَة ج مُدُن,city
+Unit 3 Section 1,Nouns (أسماء),vocab,وَاسِع,All-Encompassing
+Unit 3 Section 1,Nouns (أسماء),vocab,مُسْتَقِیْم,straight
+Unit 3 Section 1,Nouns (أسماء),vocab,وَجْه ج وُجُوْه,face
+Unit 3 Section 1,Nouns (أسماء),vocab,مِسْكِیْن ج مَسَاكِیْن,poor
+Unit 3 Section 1,Nouns (أسماء),vocab,وَسِخ,dirty
+Unit 3 Section 1,Nouns (أسماء),vocab,مَقْبُوْل,accepted
+Unit 3 Section 1,Nouns (أسماء),vocab,وَقْت ج أَوْقَات,time
+Unit 3 Section 1,Nouns (أسماء),vocab,مُهْتَد ج وْن,guided
+Unit 3 Section 1,Nouns (أسماء),vocab,يَتِیْم ج يَتَامٰی,orphan
+Unit 3 Section 1,Nouns (أسماء),vocab,مَیِّت ج أَمْوَات,dead
+Unit 3 Section 1,Verbs (أفعال),vocab,صَاحَيَصِیْحُصَیْحَة,to scream
+Unit 3 Section 1,Verbs (أفعال),vocab,أَذَّنَيُؤَذِّنُتَأْذِيْنًا,to call (to prayers)
+Unit 3 Section 1,Verbs (أفعال),vocab,صَحَّيَصِحُّصِحَّة,"to be healthy, correct"
+Unit 3 Section 1,Verbs (أفعال),vocab,أَسْرَفَيُسْرِفُإِسْرَافًا,"to exceed bounds, be extravagant"
+Unit 3 Section 1,Verbs (أفعال),vocab,أَشْرَكَيُشْرِكُإشْرَاكًا,to ascribe partners
+Unit 3 Section 1,Verbs (أفعال),vocab,أَغْنَیيُغْنِيْإِغْنَاء,"to avail, be of use"
+Unit 3 Section 1,Verbs (أفعال),vocab,طَلَبَيَطْلُبُطَلَبًا,to seek
+Unit 3 Section 1,Verbs (أفعال),vocab,أَنْبَتَيُنْبِتُإِنْبَاتًا,to make grow
+Unit 3 Section 1,Verbs (أفعال),vocab,عَذَّبَيُعَذِّبُتَعْذِيْبًا,to punish
+Unit 3 Section 1,Verbs (أفعال),vocab,أَهْلَكَيُهْلِكُإِهَّْلَكًا,to destroy
+Unit 3 Section 1,Verbs (أفعال),vocab,فَازَيَفُوْزُفَوْز,to be successful
+Unit 3 Section 1,Verbs (أفعال),vocab,بَقِيَيَبْقَیًبَقَاء,to remain
+Unit 3 Section 1,Verbs (أفعال),vocab,فَرَضَيَفْرِضُفَرْضًا,to make compulsory
+Unit 3 Section 1,Verbs (أفعال),vocab,قَبِلَيَقْبَلًقبُوْْلًقَبُوْْل,to accept
+Unit 3 Section 1,Verbs (أفعال),vocab,بَنَیيَبْنِيْبِنَاء,"to build, construct"
+Unit 3 Section 1,Verbs (أفعال),vocab,تَوَضَّأَيَتَوَضَّأُتَوَضُّأ,to perform ablution
+Unit 3 Section 1,Verbs (أفعال),vocab,لَبِثَيَلْبَثلَبْثًاولُبْثًا,"to remain, stay, spend (time)"
+Unit 3 Section 1,Verbs (أفعال),vocab,مَضَیيَمْضِيمُضِیًّا,"to past, spend"
+Unit 3 Section 1,Verbs (أفعال),vocab,حَاسَبيُحَاسِبُحِسَابًا,to account
+Unit 3 Section 1,Verbs (أفعال),vocab,نَافَقَيُنَافِقُمُنَافَقَةًنِفَاقًا,to act hypocritically
+Unit 3 Section 1,Verbs (أفعال),vocab,حَ ج يَحُجُّحَجًّا,to perform hajj
+Unit 3 Section 1,Verbs (أفعال),vocab,نَزَلَيَنْزِلُنُزُوْْل,"to descend, come down,"
+Unit 3 Section 1,Verbs (أفعال),vocab,حَصَلَيَحْصُلُحُصُوْْل,to acquire
+Unit 3 Section 1,Verbs (أفعال),vocab,وَجَدَيَجِدوِجْدَانًا ، وُجُوْدًا,to find
+Unit 3 Section 1,Verbs (أفعال),vocab,ذَاقَيَذُوْقُذَوْقًا,to taste
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,غَیْرُ صَرِيْح,Indirect slot
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,ظَرْف ج ظُرُوْف,Noun Preposition
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,حَرْفُ صِلَة,Particle of emphasis
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,خَِّلَل,"during, in between"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,خْلَف,behind
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,أَمَام,in front of
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,بَعْد,after
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,فْوَق,above
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,بَیْن,"between, amongst"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,قَبْل,"before, ago"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,تْحَت,under
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,مَع,with
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,حَول,around
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,عَن,"regarding, from"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,ك,like
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,مِن,from
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,ب,with
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,ثَم,there
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,هٰهُنَا,here
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,هُنَاك,there
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,طِیْن,clay
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,بَصَر ج أَبْصَار,sight
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,ظَهْر ج ظُهُوْر ، أَظْهُر,back
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,بِئْر ج آبَار (مث),well
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,عَاقِل ج عُقَّلَء,intelligent
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,تُرَاب ج أَتْرِبَة,soil
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,عِنَب ج أَعْنَاب,grapes
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,ثَوْب ج ثِیَاب,cloth
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,عَهْد,"acquaintance, pledge, era"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,حَرام,"sacred, impermissible"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,فَاكِهَة ج فَوَاكِه,fruit
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,خِنْزِير,"swine, pig"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,فَصْل ج فُصُوْل,classroom
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,دَم ج دِمَاء,blood
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,قَاعِدَة ج قَوَاعِد,"foundation, rule"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,دَمْع ج دُمُوْع,teardrop
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,قَبْر ج قُبُوْر,grave
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,رَيْب,doubt
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,قِرْن ج أَقْرَان,"peer, fellow"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,زَمَن ، زَمَان,"time, period"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,قَرِيْب ج أَقَارِب,close relative
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,زَيْتُوْن,olive
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,كَأْس ج كُؤُوْس (مث),cup
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,سُوْق ج أَسْوَاق (مث),market
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,كُوْب ج أَكْوَاب,cup
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,شُجَاع ج شَجَعَة ، شُجْعَان,brave
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,مِحْرَاب ج مَحَارِيْب,prayer niche
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,شَرِيْف ج شُرَفَاء,noble
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,مُصْحَف ج مَصَاحِف,Quran (written copy)
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,شَرِيْك ج ُشُرَكَاء,partner
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,مُكَرَّمَة,"honoured, revered"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,صَاحِب ج أَصْحَاب,"people (of), companion"
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,مِنْبَر ج مَنَابِر,pulpit
+Unit 3 Section 2,Prepositional Phrases (شبه الجملة),grammar,صَبِي ج صِبْیَة ، صِبْیَان,child
+Unit 4 Section 1,Personal Pronouns,grammar,اْلَْمْرُلِلْغَائِب,Third-person imperative
+Unit 4 Section 1,Personal Pronouns,grammar,مُتَكَلِّم,First person
+Unit 4 Section 1,Personal Pronouns,grammar,النَّهْي,Negative imperative
+Unit 4 Section 1,Personal Pronouns,grammar,مُخَاطَب,Second person
+Unit 4 Section 1,Personal Pronouns,grammar,imperative ( َلْ) حَرْفُنَهْي,Particle for negative
+Unit 4 Section 1,Personal Pronouns,grammar,غَائِب,Third person
+Unit 4 Section 1,Personal Pronouns,grammar,ضَمِیْر مُسْتَتِر,Hidden pronoun
+Unit 4 Section 1,Personal Pronouns,grammar,ضَمِیْربَارِز,Visible pronoun
+Unit 4 Section 1,Personal Pronouns,grammar,a نُوْن for the feminine ِنُوْنُالنِّسْوَةِ/نُوْنُالضَّمِیْر,pronoun
+Unit 4 Section 1,Personal Pronouns,grammar,ضَمِیْر مُتَّصِل,Attached
+Unit 4 Section 1,Personal Pronouns,grammar,between خَبَر and نَعْت) ِضَمِیْرُالْفَصْل,(Pronoun to differentiate
+Unit 4 Section 1,Personal Pronouns,grammar,ضَمِیْر مُنْفَصِل,Detached
+Unit 4 Section 1,Personal Pronouns,grammar,نَفْس,Reflexive pronouns
+Unit 4 Section 1,Nouns (أسماء),vocab,رَاشِد ج وْن,guided
+Unit 4 Section 1,Nouns (أسماء),vocab,أَلِیْم,painful
+Unit 4 Section 1,Nouns (أسماء),vocab,رَجِیْم,rejected
+Unit 4 Section 1,Nouns (أسماء),vocab,ج حِیْم,Fire of Hell
+Unit 4 Section 1,Nouns (أسماء),vocab,سَوَاء,equal
+Unit 4 Section 1,Nouns (أسماء),vocab,حَرِيْر,silk
+Unit 4 Section 1,Nouns (أسماء),vocab,فِضَّة,silver
+Unit 4 Section 1,Nouns (أسماء),vocab,خَیْر,good
+Unit 4 Section 1,Verbs (أفعال),vocab,مُبِیْن,clear
+Unit 4 Section 1,Verbs (أفعال),vocab,ذَائِقَة,taste
+Unit 4 Section 1,Verbs (أفعال),vocab,آثَريُؤْثِرُإِيْثَارًا,to give preference
+Unit 4 Section 1,Verbs (أفعال),vocab,فَتَنَيَفْتِنُفُتُوْنًا,"to test, trial"
+Unit 4 Section 1,Verbs (أفعال),vocab,اِسْتَعَانًيَسْتَعِیْنُاِسْتِعَانَة,to seek help
+Unit 4 Section 1,Verbs (أفعال),vocab,كَلَّمَيُكَلِّمتَكْلِیْمًا ، كَّلَمًا,to speak
+Unit 4 Section 1,Verbs (أفعال),vocab,اِغْتَابَيَغْتَابُاغْتِیَابًا,to backbite
+Unit 4 Section 1,Verbs (أفعال),vocab,لَعِبَيَلْعَبُلَعْبًا,to play
+Unit 4 Section 1,Verbs (أفعال),vocab,أَقَامَيُقِیْمُإِقَامَة,"to establish, stay, reside"
+Unit 4 Section 1,Verbs (أفعال),vocab,خَدَعَيَخْدَعُخَدْعًا,to deceive
+Unit 4 Section 1,Verbs (أفعال),vocab,نَفَعَيَنْفَعُنَفْعًا,to benefit
+Unit 4 Section 1,Verbs (أفعال),vocab,دَخَلَيَدْخُلُدُخُوْْل,to enter
+Unit 4 Section 1,Verbs (أفعال),vocab,وَصَلَيَصِلُوُصُوْْل,to reach
+Unit 4 Section 1,Verbs (أفعال),vocab,شَفَعَيَشْفَعُشَفَاعَة,to intercede
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,تَأْكِیْد لَفْظِي,Emphasis (with repeated word)
+Unit 4 Section 2,Part 1: Interrogative Pronouns,grammar,أَدَاةُاْلسْتِفْهَام,Interrogative Pronoun
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,تَأْكِیْد مَعْنَوِي,Emphasis (with specific word)
+Unit 4 Section 2,Part 1: Interrogative Pronouns,grammar,حَرْفُاْلسْتِفْهَام,Particle Interrogative
+Unit 4 Section 2,Part 1: Interrogative Pronouns,grammar,اِسْمِاْلسْتِفْهَام,Noun Interrogative
+Unit 4 Section 2,Part 1: Interrogative Pronouns,grammar,أَحْرُفُالْجَوَاب,Particles for affirmation/negation
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,كَیْف,how
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,مَن,who
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,كَم,how many
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,أَي,which
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,لِم,why
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,أَيْن,where
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,لِمَن,who does it belong to
+Unit 4 Section 2,Part 2: Emphatic Phrases,grammar,بَقِّیَّة,"remainder, rest"
+Unit 4 Section 2,Nouns (أسماء),vocab,عِزَّة,honour
+Unit 4 Section 2,Nouns (أسماء),vocab,أَلًی ج آْلَء,"gift, bounty"
+Unit 4 Section 2,Nouns (أسماء),vocab,عَشَاء ج أَعْشِیَة,dinner
+Unit 4 Section 2,Nouns (أسماء),vocab,حَبْل ج حِبَال,rope
+Unit 4 Section 2,Nouns (أسماء),vocab,عَقْل ج عُقُوْل,intellect
+Unit 4 Section 2,Nouns (أسماء),vocab,حَدِيْث ج أَحَادِيْث,"discourse, Prophetic narration"
+Unit 4 Section 2,Nouns (أسماء),vocab,غَدَاء ج أَغْدِيَة,"breakfast, lunch"
+Unit 4 Section 2,Nouns (أسماء),vocab,سََّلَم,peace
+Unit 4 Section 2,Nouns (أسماء),vocab,مُرْسَل ج وْن,messenger
+Unit 4 Section 2,Nouns (أسماء),vocab,سَیِّد,leader
+Unit 4 Section 2,Nouns (أسماء),vocab,وَقْت ج أَوْقَات,time
+Unit 4 Section 2,Nouns (أسماء),vocab,شِمَال,left
+Unit 4 Section 2,Verbs (أفعال),vocab,يَمِیْن ج أَيْمَان,right
+Unit 4 Section 2,Verbs (أفعال),vocab,شَوْط ج أَشْوَاط,"round, course"
+Unit 4 Section 2,Verbs (أفعال),vocab,صَرَّفَيُصَرِّفُتَصْرِيْفًا,to change
+Unit 4 Section 2,Verbs (أفعال),vocab,اِشْتَكَیيَشْتَكِيْاِشْتِكَاء,to complain
+Unit 4 Section 2,Verbs (أفعال),vocab,ضَیَّعَيُضَیِّعُتَضْیِیْعًا,to waste
+Unit 4 Section 2,Verbs (أفعال),vocab,اِعْتَصَمَيَعْتَصِمُاِعْتِصَامًا,to adhere to
+Unit 4 Section 2,Verbs (أفعال),vocab,طَلَعَيَطْلعُطُلُوْعًا,to rise
+Unit 4 Section 2,Verbs (أفعال),vocab,أَغْرَقَيُغْرِقُإِغْرَاقًا,to drown
+Unit 4 Section 2,Verbs (أفعال),vocab,غَرَبَيَغْرُبُغُرُوْبًا,to set
+Unit 4 Section 2,Verbs (أفعال),vocab,بَدَأَيَبْدَأُبَدْأ,"to initiate, start"
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,عَائِد Pronoun within the صُغْری that,refers to something before it
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,ضَمِیْرُالشَّأْن,Anticipatory Pronoun
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,ضَمِیْرُالْقِصَّة,Anticipatory Pronoun
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,نَادَیيُنَادِيْمُنَادَاة,to call out
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,أَوْحَیيُوْحِيْإِيْحَاء,"to inspire, reveal"
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,سِجْن ج سُجُوْن,jail
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,إِصْبَع ج أَصَابِع (مث),finger
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,ضَال ج وْن,misguided
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,امْتِحَان ج ات,exam
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,طَبِیْب ج أَطِبَّاء,doctor
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,أَهْل,people
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,عِشَاء,evening
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,بَطْن ج بُطُوْن,stomach
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,مِل ة ج مِلَل,"religion, creed"
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,جَسَد ج أَجْسَاد,body
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,هَِّلَل ج أَهِلَّة,crescent
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,خَبَر ج أَخْبَار,news
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,خَزِيَيَخْزَیخِزْيًا,to be disgraced
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,اِجْتَنَبَيَجْتَنِبُاجْتِنَابًا,to abstain
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,دَرَسَيَدْرُسُدَرْسًا,to study
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,اِحْتَرَقيَحْتَرِقُاِحْتِرَاقًا,to burn
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,دَفَنَيَدْفِنُدَفْنًا,to bury
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,أَخْرَجَيُخْرِجُإِخْرَاجًا,to take out
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,اِسْتَرَاحًيَسْتَرِيْحُاسْتِرَاحَة,to rest
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,اِسْتَعَاذَيَسْتَعِیْذُاِسْتِعَاذَة,to seek refuge
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,سَالَيَسِیْلُسَیََّلَنًا,to flow
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,اِسْتَقْبَلًيَسْتَقْبِلُاِسْتِقْبَاْل,"to face, turn towards"
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,شَاءَيَشَاءُمَشِیْئَة,"to wish, desire"
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,اِسْتَكْبَريَسْتَكْبِرُاِسْتِكْبَارًا,to act proudly
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,طَالَعَيُطَالِعُمُطَالَعَة,"to read, study"
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,اِسْتَمَعَيَسْتَمِعُاسْتِمَاعًا,to listen
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,أَكَّدَيُؤَكِّدتَأْكِیْدًا ، تَوْكِیْدًا,to emphasise
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,عَاشَيَعِیْشُعَیْشًا,to live
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,عَطَسَيَعْطِـُسُعُطَاسًا,to sneeze
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,أَنْجَیيُنْجِيْإِنْجَاء,to save
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,عَقَّيَعُقُّعُقُوْقًا,to disobey (parents)
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,(to parents) بَرَّيَبَرُّبِرًّا,to be dutiful/obedient
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,تَابَيَتُوْبُتَوْبَة,to repent
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,تَزَوَّجَيَتَزَوَّجُتَزَوَّجًا,to get married
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,تَكَلَّمَيَتَكَلَّمُتَكَلُّمًا,to speak
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,نَفَیيَنْفِيْنَفْیًا,to negate
+Unit 5 Section 1,Subsentences (جملة صغری),grammar,وَفَّقَيُوَفِّقُتَوْفِیْقًا,to grant ability
+Unit 5 Section 2,Relative Pronouns (اسم موصول),grammar,اِسْم مَوْصُوْل,relative pronoun
+Unit 5 Section 2,Relative Pronouns (اسم موصول),grammar,حَرْف مَوْصُوْل,relative pronoun
+Unit 5 Section 3,Nouns (أسماء),vocab,لِسَان ج أَلْسِنَة,tongue
+Unit 5 Section 3,Nouns (أسماء),vocab,رُوْح ج أَرْوَاح,soul
+Unit 5 Section 3,Nouns (أسماء),vocab,لُغَة ج ات,language
+Unit 5 Section 3,Nouns (أسماء),vocab,سَرِيْع ج سِرَاع ، سُرْعَان,swift
+Unit 5 Section 3,Nouns (أسماء),vocab,لَهْو,futile activity
+Unit 5 Section 3,Nouns (أسماء),vocab,شَفَة ج شِفَاه,lip
+Unit 5 Section 3,Nouns (أسماء),vocab,مَسْأَلَة ج ُمَسَائِل,ruling
+Unit 5 Section 3,Nouns (أسماء),vocab,عَاشُوُرَاء,Ashura (10th Muharram)
+Unit 5 Section 3,Nouns (أسماء),vocab,مَعْصِیَة ج مَعَاص,disobedience
+Unit 5 Section 3,Nouns (أسماء),vocab,عِقَاب,punishment
+Unit 5 Section 3,Nouns (أسماء),vocab,مَعْلُوْم,known
+Unit 5 Section 3,Nouns (أسماء),vocab,عَقْل ج عُقُوْل,intellect
+Unit 5 Section 3,Nouns (أسماء),vocab,مَنْسَك ج مَنَاسِك,ritual
+Unit 5 Section 3,Nouns (أسماء),vocab,عََّلَمَة ج ات,sign
+Unit 5 Section 3,Verbs (أفعال),vocab,حَلَّيَحِلُّحََّلَْل,to be permissible
+Unit 5 Section 3,Verbs (أفعال),vocab,أَدَّیيُؤَدِّيْتَأْدِيَةً ، أَدَاء,"to fulfil, complete"
+Unit 5 Section 3,Verbs (أفعال),vocab,دَرَیيَدْرِيْدِرَايَة,to know
+Unit 5 Section 3,Verbs (أفعال),vocab,أَذْنَبَيُذْنِبإِذْنَابًا,to sin
+Unit 5 Section 3,Verbs (أفعال),vocab,دَفَعَيَدْفَعُدَفْعًا,"to push, repel"
+Unit 5 Section 3,Verbs (أفعال),vocab,أَرَادَيُرِيْدُإِرَادَة,to intend
+Unit 5 Section 3,Verbs (أفعال),vocab,رَبَّیًيُرَبِّيْتَرْبِیَة,"to raise, rear, nurture"
+Unit 5 Section 3,Verbs (أفعال),vocab,اِسْتَحْیَیًيسْتَحْیِيْاسْتِحْیَاء,to be ashamed
+Unit 5 Section 3,Verbs (أفعال),vocab,زَارَيَزُوْرُزِيَارَة,to visit
+Unit 5 Section 3,Verbs (أفعال),vocab,اِسْتَشَارًيَسْتَشِیْرُاِسْتِشَارَة,to seek advice or counsel
+Unit 5 Section 3,Verbs (أفعال),vocab,سَرَّيَسُرُّسُرُوْرًا ، مَسَرَّة,to make happy
+Unit 5 Section 3,Verbs (أفعال),vocab,اِسْتَطَاعًيَسْتَطِیْعُاِسْتِطَاعَة,to be able to
+Unit 5 Section 3,Verbs (أفعال),vocab,سَكَنَيَسْكُنُسُكُوْنًا,"to rest, reside"
+Unit 5 Section 3,Verbs (أفعال),vocab,أَشْهَديُشْهِدُإِشْهَادًا,to make witness
+Unit 5 Section 3,Verbs (أفعال),vocab,شَرَحَيَشْرَحُشَرْحًا,to explain
+Unit 5 Section 3,Verbs (أفعال),vocab,اِعْتَرَفَيَعْتَرِفُاِعْتِرَافًا,to acknowledge
+Unit 5 Section 3,Verbs (أفعال),vocab,شَهِدَيَشْهَدُشَهَادَة,"to testify, witness"
+Unit 5 Section 3,Verbs (أفعال),vocab,ظَهَرَيَظْهَرُظُهُوْرًا,to become apparent
+Unit 5 Section 3,Verbs (أفعال),vocab,أَعْجَبَيُعْجِبُإِعْجَابًا,"to please, delight"
+Unit 5 Section 3,Verbs (أفعال),vocab,عَقَلَيَعْقِلًعَقَّل,to understand
+Unit 5 Section 3,Verbs (أفعال),vocab,أَغْضَبَيُغْضِبُإِغْضَابًا,to make angry
+Unit 5 Section 3,Verbs (أفعال),vocab,قَدَرَيَقْدِرُقُدْرَة,to be able to
+Unit 5 Section 3,Verbs (أفعال),vocab,أَمْكَنَيُمْكِنإِمْكَانًا,to be possible
+Unit 5 Section 3,Verbs (أفعال),vocab,كَرِهَيَكْرَهُكَرَاهَة,to dislike
+Unit 5 Section 3,Verbs (أفعال),vocab,اِنْبَغَیيَنْبَغِيْانْبِغَاء,"to be suitable, appropriate, necessary"
+Unit 5 Section 3,Verbs (أفعال),vocab,لَقِيَيَلْقَیلِقَاء,to meet
+Unit 5 Section 3,Verbs (أفعال),vocab,انْتَهَیيَنْتَهِيْانْتِهَاء,"to finish, complete"
+Unit 5 Section 3,Verbs (أفعال),vocab,نَدِمَيَنْدَمُنَدَامَةً ، نَدَمًا,to regret
+Unit 5 Section 3,Verbs (أفعال),vocab,تَعِبَيَتْعَبُتَعَبًا,to be tired
+Unit 5 Section 3,Verbs (أفعال),vocab,نَهَیيَنْهَینَهْیًا,to prohibit
+Unit 5 Section 3,Verbs (أفعال),vocab,تَمَنَّیيَتَمَنَّیتَمَنِّیًا,to desire
+Unit 5 Section 3,Verbs (أفعال),vocab,وَجَبَيَجِبُوُجُوْبًا,to be compulsory
+Unit 5 Section 3,Verbs (أفعال),vocab,جَرَیيَجْرِي ج َريَانًا,to flow
+Unit 6,Part 1: Vocative Expressions,grammar,جَوَابُالنِّدَاء,Sentence After Vocative Sentence
+Unit 6,Part 1: Vocative Expressions,grammar,حَرْفُالنِّدَاء,Particle of Vocation
+Unit 6,Part 2: Oaths,grammar,قَسَم,Oath
+Unit 6,Joining Sentences,grammar,جُمْلَة تَعْلِیْلِیَّة,Sentence that shows reason
+Unit 6,Part 2: Oaths,grammar,جَوَابُالْقَسَم,Sentence After Oath
+Unit 6,Joining Sentences,grammar,جُمْلَةاسْتِدْرَاكِیَّة,Sentence that removes a presumption
+Unit 6,Part 3: Conditional Sentences,grammar,أَدَاةُالشَّرْط,Conditional Conjunction
+Unit 6,Part 3: Conditional Sentences,grammar,شَرْط,Condition Clause
+Unit 6,Part 3: Conditional Sentences,grammar,جَوَابِالشَّرْط,Result Clause
+Unit 6,Joining Sentences,grammar,however أَنَّی,"from wherever,"
+Unit 6,Joining Sentences,grammar,كَم,however many
+Unit 6,Joining Sentences,grammar,أَيْن,wherever
+Unit 6,Joining Sentences,grammar,أَي,whichever
+Unit 6,Joining Sentences,grammar,أَيَّان,whenever
+Unit 6,Joining Sentences,grammar,لَو,if
+Unit 6,Joining Sentences,grammar,عَصْر ج عُصُوْر,time
+Unit 6,Joining Sentences,grammar,جِسْم ج أَجْسَام,body
+Unit 6,Joining Sentences,grammar,سَلِمَيَسْلَمُسََّلَمَة,to be safe
+Unit 6,Joining Sentences,grammar,اِتَّقَیيَتَّقِياِتِّقَاء,to fear
+Unit 6,Joining Sentences,grammar,عَاشَيَعِیْشُعَیْشًا,to live
+Unit 6,Joining Sentences,grammar,عَامَلَيُعَامِلُمُعَامَلَة,to deal
+Unit 6,Joining Sentences,grammar,عَصَمَيَعْصِمُعِصْمَة,to protect
+Unit 6,Joining Sentences,grammar,أَرْضَیيُرْضِيْإِرْضَاء,to please
+Unit 6,Joining Sentences,grammar,مَدَحَيَمْدَحُمَدْحًا,to praise
+Unit 6,Joining Sentences,grammar,بَارَكَيُبَارِكُمُبَارَكَة,to bless
+Unit 6,Joining Sentences,grammar,وَعَظَيَعِظُوَعْظًا,to advice
+Unit 6,Joining Sentences,grammar,حَزَنَيَحْزُنُحُزْنًا,to make sad
