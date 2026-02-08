@@ -16,6 +16,13 @@ export default function ArabicFlashcards() {
 
   const sectionTree = useMemo(() => buildSectionTree(DATA), []);
 
+  const handleSessionBack = (completed) => {
+    if (completed && session?.partKey && session?.onComplete) {
+      session.onComplete(session.partKey);
+    }
+    setSession(null);
+  };
+
   if (session) {
     return (
       <ErrorBoundary>
@@ -23,7 +30,8 @@ export default function ArabicFlashcards() {
           cards={session.cards}
           title={session.title}
           subtitle={session.subtitle}
-          onBack={() => setSession(null)}
+          onBack={handleSessionBack}
+          isLearnMode={!!session.partKey}
         />
       </ErrorBoundary>
     );
@@ -132,8 +140,8 @@ export default function ArabicFlashcards() {
           {view === "learn" && (
             <GamifiedView
               sectionTree={sectionTree}
-              onStartSession={(cards, title, sub) =>
-                setSession({ cards, title, subtitle: sub })
+              onStartSession={(cards, title, sub, partKey, onComplete) =>
+                setSession({ cards, title, subtitle: sub, partKey, onComplete })
               }
             />
           )}

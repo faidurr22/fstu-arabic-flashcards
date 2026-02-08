@@ -4,7 +4,7 @@ import Icons from "./Icons";
 import shuffleArray from "../utils/shuffle";
 import theme, { styles } from "../theme";
 
-export default function FlashcardSession({ cards, title, subtitle, onBack }) {
+export default function FlashcardSession({ cards, title, subtitle, onBack, isLearnMode }) {
   const [index, setIndex] = useState(0);
   const [flipped, setFlipped] = useState(false);
   const [shuffled, setShuffled] = useState(false);
@@ -77,7 +77,7 @@ export default function FlashcardSession({ cards, title, subtitle, onBack }) {
         }}
       >
         <button
-          onClick={onBack}
+          onClick={() => onBack(false)}
           aria-label="Go back"
           style={{
             width: 40,
@@ -203,11 +203,36 @@ export default function FlashcardSession({ cards, title, subtitle, onBack }) {
             </button>
           </div>
 
+          {/* Complete & Continue (learn mode) */}
+          {isLearnMode && (
+            <div style={{ display: "flex", justifyContent: "center", marginTop: 28 }}>
+              <button
+                onClick={() => onBack(true)}
+                aria-label="Mark as complete and go back"
+                style={{
+                  padding: "14px 36px",
+                  borderRadius: 16,
+                  border: "none",
+                  background: theme.gradients.gold,
+                  color: "#5a3800",
+                  cursor: "pointer",
+                  fontSize: 15,
+                  fontWeight: 900,
+                  letterSpacing: 0.5,
+                  boxShadow: theme.shadows.goldActive,
+                  transition: "transform 0.15s",
+                }}
+              >
+                &#10003; Complete &amp; Continue
+              </button>
+            </div>
+          )}
+
           {/* Keyboard hint */}
           <div
             style={{
               textAlign: "center",
-              marginTop: 24,
+              marginTop: 20,
               fontSize: 11,
               color: theme.colors.textFaint,
             }}

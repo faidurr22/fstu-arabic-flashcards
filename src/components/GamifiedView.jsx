@@ -184,7 +184,13 @@ export default function GamifiedView({ sectionTree, onStartSession }) {
                       className={`duo-node node-button ${state === "active" ? "duo-float active" : state}`}
                       onClick={() =>
                         state !== "locked" &&
-                        onStartSession(part.cards, label, section.name)
+                        onStartSession(part.cards, label, section.name, key, (completedKey) => {
+                          setCompletedParts((prev) => {
+                            const n = new Set(prev);
+                            n.add(completedKey);
+                            return n;
+                          });
+                        })
                       }
                       disabled={state === "locked"}
                       aria-label={
