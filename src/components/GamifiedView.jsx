@@ -185,11 +185,10 @@ export default function GamifiedView({ sectionTree, onStartSession }) {
                       onClick={() =>
                         state !== "locked" &&
                         onStartSession(part.cards, label, section.name, key, (completedKey) => {
-                          setCompletedParts((prev) => {
-                            const n = new Set(prev);
-                            n.add(completedKey);
-                            return n;
-                          });
+                          const updated = loadCompleted();
+                          updated.add(completedKey);
+                          saveCompleted(updated);
+                          setCompletedParts(updated);
                         })
                       }
                       disabled={state === "locked"}
