@@ -1,34 +1,9 @@
-import { useState, useEffect, useCallback } from "react";
 import SectionBanner from "./SectionBanner";
 import Icons from "./Icons";
 import { getNodeIcon } from "./Icons";
 import theme from "../theme";
 
-const STORAGE_KEY = "fstu_completed_parts";
-
-function loadCompleted() {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    return raw ? new Set(JSON.parse(raw)) : new Set();
-  } catch {
-    return new Set();
-  }
-}
-
-function saveCompleted(set) {
-  try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify([...set]));
-  } catch {
-    // storage full or unavailable
-  }
-}
-
-export default function GamifiedView({ sectionTree, onStartSession }) {
-  const [completedParts, setCompletedParts] = useState(loadCompleted);
-
-  useEffect(() => {
-    saveCompleted(completedParts);
-  }, [completedParts]);
+export default function GamifiedView({ sectionTree, completedParts, toggleComplete, onStartSession }) {
 
   let activeKey = null;
   for (const section of sectionTree) {
@@ -45,14 +20,6 @@ export default function GamifiedView({ sectionTree, onStartSession }) {
     const s = sectionTree[0];
     activeKey = s.name + "::" + s.partOrder[0];
   }
-
-  const toggleComplete = useCallback((key) => {
-    setCompletedParts((prev) => {
-      const n = new Set(prev);
-      n.has(key) ? n.delete(key) : n.add(key);
-      return n;
-    });
-  }, []);
 
   let globalNodeIdx = 0;
 
@@ -184,12 +151,7 @@ export default function GamifiedView({ sectionTree, onStartSession }) {
                       className={`duo-node node-button ${state === "active" ? "duo-float active" : state}`}
                       onClick={() =>
                         state !== "locked" &&
-                        onStartSession(part.cards, label, section.name, key, (completedKey) => {
-                          const updated = loadCompleted();
-                          updated.add(completedKey);
-                          saveCompleted(updated);
-                          setCompletedParts(updated);
-                        })
+                        onStartSession(part.cards, label, section.name, key)
                       }
                       disabled={state === "locked"}
                       aria-label={

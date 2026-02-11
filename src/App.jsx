@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect, useCallback } from "react";
 import DATA from "./data/flashcards.json";
 import buildSectionTree from "./utils/buildSectionTree";
 import FlashcardSession from "./components/FlashcardSession";
@@ -9,16 +9,55 @@ import theme from "./theme";
 import "./styles/animations.css";
 
 const SECTIONS = [...new Set(DATA.map((d) => d.section))];
+const STORAGE_KEY = "fstu_completed_parts";
+
+function loadCompleted() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    return raw ? new Set(JSON.parse(raw)) : new Set();
+  } catch {
+    return new Set();
+  }
+}
+
+function saveCompleted(set) {
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify([...set]));
+  } catch {
+    // storage full or unavailable
+  }
+}
 
 export default function ArabicFlashcards() {
   const [view, setView] = useState("learn");
   const [session, setSession] = useState(null);
+  const [completedParts, setCompletedParts] = useState(loadCompleted);
+
+  useEffect(() => {
+    saveCompleted(completedParts);
+  }, [completedParts]);
+
+  const markComplete = useCallback((key) => {
+    setCompletedParts((prev) => {
+      const n = new Set(prev);
+      n.add(key);
+      return n;
+    });
+  }, []);
+
+  const toggleComplete = useCallback((key) => {
+    setCompletedParts((prev) => {
+      const n = new Set(prev);
+      n.has(key) ? n.delete(key) : n.add(key);
+      return n;
+    });
+  }, []);
 
   const sectionTree = useMemo(() => buildSectionTree(DATA), []);
 
   const handleSessionBack = (completed) => {
-    if (completed && session?.partKey && session?.onComplete) {
-      session.onComplete(session.partKey);
+    if (completed && session?.partKey) {
+      markComplete(session.partKey);
     }
     setSession(null);
   };
@@ -140,8 +179,10 @@ export default function ArabicFlashcards() {
           {view === "learn" && (
             <GamifiedView
               sectionTree={sectionTree}
-              onStartSession={(cards, title, sub, partKey, onComplete) =>
-                setSession({ cards, title, subtitle: sub, partKey, onComplete })
+              completedParts={completedParts}
+              toggleComplete={toggleComplete}
+              onStartSession={(cards, title, sub, partKey) =>
+                setSession({ cards, title, subtitle: sub, partKey })
               }
             />
           )}
