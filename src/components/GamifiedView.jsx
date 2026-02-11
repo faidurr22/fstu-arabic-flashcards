@@ -5,6 +5,8 @@ import theme from "../theme";
 
 export default function GamifiedView({ sectionTree, completedParts, toggleComplete, onStartSession }) {
 
+  console.log('[DEBUG] GamifiedView render, completedParts:', [...completedParts]);
+
   let activeKey = null;
   for (const section of sectionTree) {
     for (const partName of section.partOrder) {
@@ -20,6 +22,8 @@ export default function GamifiedView({ sectionTree, completedParts, toggleComple
     const s = sectionTree[0];
     activeKey = s.name + "::" + s.partOrder[0];
   }
+
+  console.log('[DEBUG] activeKey:', activeKey);
 
   let globalNodeIdx = 0;
 

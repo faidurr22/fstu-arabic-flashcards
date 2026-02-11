@@ -56,7 +56,9 @@ export default function ArabicFlashcards() {
   const sectionTree = useMemo(() => buildSectionTree(DATA), []);
 
   const handleSessionBack = (completed) => {
+    console.log('[DEBUG] handleSessionBack called', { completed, partKey: session?.partKey });
     if (completed && session?.partKey) {
+      console.log('[DEBUG] calling markComplete with:', session.partKey);
       markComplete(session.partKey);
     }
     setSession(null);
